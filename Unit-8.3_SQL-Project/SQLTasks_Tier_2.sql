@@ -1,32 +1,32 @@
 /* Welcome to the SQL mini project. You will carry out this project partly in
  the PHPMyAdmin interface, and partly in Jupyter via a Python connection.
- 
+
  This is Tier 2 of the case study, which means that there'll be less guidance for you about how to setup
  your local SQLite connection in PART 2 of the case study. This will make the case study more challenging for you:
  you might need to do some digging, aand revise the Working with Relational Databases in Python chapter in the previous resource.
- 
+
  Otherwise, the questions in the case study are exactly the same as with Tier 1.
- 
+
  PART 1: PHPMyAdmin
  You will complete questions 1-9 below in the PHPMyAdmin interface.
  Log in by pasting the following URL into your browser, and
  using the following Username and Password:
- 
+
  URL: https://sql.springboard.com/
  Username: student
  Password: learn_sql@springboard
- 
+
  The data you need is in the "country_club" database. This database
  contains 3 tables:
  i) the "Bookings" table,
  ii) the "Facilities" table, and
  iii) the "Members" table.
- 
+
  In this case study, you'll be asked a series of questions. You can
  solve them using the platform, but for the final deliverable,
  paste the code for each solution into this script, and upload it
  to your GitHub.
- 
+
  Before starting with the questions, feel free to take your time,
  exploring the data, and getting acquainted with the 3 tables. */
 /* QUESTIONS
@@ -141,43 +141,32 @@ ORDER BY
 
 /* Q9: This time, produce the same result as in Q8, but using a subquery. */
 SELECT
-    f.name AS facility,
-    CONCAT(m.firstname, ' ', m.surname) AS member,
+    facility,
+    member,
+    cost
+FROM
     (
         SELECT
+            CONCAT(m.firstname, ' ', m.surname) AS member,
+        	f.name as facility,
             CASE
-                WHEN Bookings.memid = 0 THEN Facilities.guestcost
-                ELSE Facilities.membercost
-            END
+                WHEN b.memid = 0 THEN (f.guestcost * b.slots)
+                ELSE (f.membercost * b.slots)
+            END AS cost
         FROM
-            `Bookings`
-            LEFT JOIN `Facilities` USING (facid)
+            `Bookings` AS b
+            LEFT JOIN `Members` AS m ON m.memid = b.memid
+        	LEFT JOIN `Facilities` AS f ON f.facid = b.facid
         WHERE
-            Bookings.bookid = b.bookid
-    ) * b.slots AS cost
-FROM
-    `Bookings` AS b
-    LEFT JOIN `Members` AS m ON m.memid = b.memid
-    LEFT JOIN `Facilities` AS f ON f.facid = b.facid
+            b.starttime LIKE '2012-09-14%'
+    ) AS bookings
 WHERE
-    b.starttime LIKE '2012-09-14%'
-    AND (
-        SELECT
-            CASE
-                WHEN Bookings.memid = 0 THEN Facilities.guestcost
-                ELSE Facilities.membercost
-            END
-        FROM
-            `Bookings`
-            LEFT JOIN `Facilities` USING (facid)
-        WHERE
-            Bookings.bookid = b.bookid
-    ) * b.slots > 30
+    cost > 30
 ORDER BY
     cost DESC;
 
 /* PART 2: SQLite
- 
+
  Export the country club data from PHPMyAdmin, and connect to a local SQLite instance from Jupyter notebook
  for the following questions.
  */
