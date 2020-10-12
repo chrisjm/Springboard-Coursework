@@ -1,0 +1,79 @@
+We are seeking a senior level Data Engineer to join our Data Engineering team. Data is the lifeblood of business and the Data Engineering team ensure all areas of the business have timely, accurate and complete data sets to drive their activities. A successful candidate will become both steward and champion for the firm's data archives and the systems which capture, transform and load data into those archives. A strategic thinker with a passion for solving difficult problems will find ample opportunities to exercise those traits in this role.
+
+What you will do
+Identify and implement strategies to make our ETL pipelines more efficient and robust.
+Manage the impact of changes to exchange protocols or trading software to our data pipelines.
+Develop and implement strategies for measuring completeness and accuracy of extracted data in near real-time.
+Develop strategies for back-population and historical corrections.
+Own your changes from design to deployment, ensuring continuity of service for end-users.
+Liaise with traders and trading system developers to continue to improve and enhance the content and quality of our data archives.
+What you will need
+Fluency in Python programming.
+Experience programming with C++ is strongly desired.
+Experience with engineering business critical real-time ETL pipelines.
+Knowledge of the industry is a plus.
+Familiarity with Linux.
+Experience working collaboratively in a shared codebase.
+Strong face to face and written communication skills.
+
+Responsibilities
+
+Create and maintain optimal data pipeline architecture
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability and usability
+Build analytics tools that utilize the data pipeline to provide actionable insights
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources
+Keep our data separated and secure across national boundaries through multiple data centers
+Qualifications:
+
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL)
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Strong analytic skills related to working with unstructured datasets
+Must have experience in building reports, dashboards, and/or data modeling layers in Looker, Tableau or Mode
+Experience with relational SQL and NoSQL databases
+Experience with data pipeline and workflow management tools
+Experience with GCP services
+Experience with object-oriented/object function scripting languages
+Minimum of 5 years in Data Engineering
+Must have atleast an Undergraduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field
+Self starter who is excited to be part of a growing startup company
+Able to get into the weeds and propose and implement solutions without hand holding
+
+Your Responsibilities
+Support the development and international expansion of our next-generation, privacy-aware, Kappa-style data architecture - using Kafka, PostgreSQL, AWS, and Confluent Platform.
+Prototype new algorithms or intelligence modules to support forthcoming data products.
+Support our analytics team by building, scaling, and integrating data ingestion and ETL processes.
+Frequently communicate your efforts to Head of Data and other technical/non-technical stakeholders in clear written, verbal, or presentation form.
+Become intimately familiar with HIPAA, GDPR, and other applicable regulatory frameworks and how they influence our architecture and development decisions.
+Live our data philosophy, which focuses on ethical decision making, being aware of how biased data (and assumptions) can affect results (and people), and being laser-focused on business needs.
+What Will Make You Stand Out
+At least 4 years of professional work experience in a role at a startup company dealing with regulated data (such as healthcare).
+Deep practical experience with AWS (Redshift, S3, MSK, etc.), Kafka, and distributed systems.
+Expertise in Clojure or Python in the context of data applications.
+Demonstrated ability to rapidly develop and/or convert data science projects into modules that can be readily integrated into an existing product.
+Experience with systems engineering, orchestration (e.g. Terraform), and awareness of the nuances of testing and deploying distributed data architecture at scale (particularly with probabilistic output).
+Notable open-source contributions to software used by the data engineering or data science communities.
+Advanced degree in a related field.
+
+What you'll do:
+Create and maintain an optimal data pipeline architecture.
+Have a critical role in defining and maintaining our overall data strategy that will help fuel future innovation.
+Identify, design and implement internal process improvements: automating manual processes, optimize data delivery and re-design infrastructure for greater efficiency and scalability.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Within an Agile environment, work as part of a cross-functional Scrum team in serving the data needs of the company.
+Work with data and analytics experts to strive for greater functionality in our data systems.
+Participate in an engineering culture of "always be learning" where the sharing and learning from failures is celebrated and the giving and receiving of constructive candid feedback is highly encouraged.
+
+What you bring (Required):
+Advanced experience writing SQL queries, and working knowledge of a variety of databases (MySQL, Mongo, Redis).
+High-level proficiency with Python, Node.js, AWS (Lambda, SNS, EC2, ECS).
+Experience with data warehouses: Redshift (preferred), Azure, BigQuery, Snowflake...
+Experience with manipulating, processing and extracting value from large disconnected datasets.
+Strong analytical skills related to working with unstructured datasets.
+Strong project management and organizational skills: ability to understand project requirements and translate them into technical subtasks.
+Experience with data visualization systems like Looker, Tableau.
+Experience with Scrum/Agile development methodologies.
+Deep experience with code versioning tools (GIT/Bitbucket).
+A deep sense of quality, and sharp engineering skills with strong computer science fundamentals.
+4+ years of experience in a Data Engineer role, building and optimizing "big data" data pipelines, architectures and data sets.
+Bachelor's Degree in Computer Science or a related field, or equivalent work experience.

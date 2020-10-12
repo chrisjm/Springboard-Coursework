@@ -1,0 +1,62 @@
+What you’ll be doing
+
+Leading research and development projects on machine learning and data analytics.
+Analyzing, processing, evaluating and documenting large data sets
+Identify/develop appropriate machine learning/deep learning/natural language understanding/natural language processing techniques to uncover the value of the data
+Designing data structure and data storage schemes for efficient data manipulation and information retrieval
+Developing tools for data processing and information retrieval
+Developing data driven models to quantify the value of a given data set
+Applying, developing and inventing algorithms to solve challenging business problems
+Validating score performance and conducting ROI and benefit analysis
+Documenting and presenting model process and model performance
+
+Desired Skills and Experience
+
+
+What your background looks like
+
+Advanced degree in Machine Learning, Data Science, AI, Computer Science, Computer Engineering, Electrical Engineering, Physics, Statistics, Applied Math or other quantitative fields
+2-5 years of working experience in data science, and/or predictive modeling
+Demonstrated ability to lead and execute projects from start to finish
+Ability to independently support existing products
+Proven track record in modifying and applying advanced algorithms to address practical problems
+Experience in deep learning (CNN, RNN, LSTM, attention models, etc.), machine learning (SVM, GLM, boosting, random forest, etc.), graph models, and/or, reinforcement learning.
+Experience with open source tools for deep learning and machine learning technology such as Keras, tensorflow, pytorch, scikit-learn, pandas, etc.
+Proven ability to work independently on development of complex models with extremely large and complex data structures
+Proficient in more than one of Python, R, Java, C++, or C
+Experience in large data analysis using Spark (pySpark preferred)
+Robust knowledge and experience with statistical methods
+
+
+Plusses:
+
+Extensive knowledge of MATLAB and SQL
+Experience with Hadoop and NoSQL related technologies such as Map Reduce, Spark, Hive, HBase, mongoDB, Cassandra, etc.
+Experience with online, mobile marketing analytics
+Experience with GPU programming
+Experience with Natural Language Processing, Natural Language Understanding, and the relevant open-source tools
+Solid knowledge of Bayesian statistical inference and related machine learning methods.
+Experience with Agile methods for software development
+
+What You'll Bring
+4+ years of industry experience with data science
+BS, MS or PhD in Statistics, Mathematics, Computer Science, Economics, Operations Research, or equivalent work experience
+4+ years of hands-on expertise with data mining and statistical modeling techniques such as clustering, classification, regression, tree-based methods, neural nets, support vector machines, anomaly detection, and natural language processing
+Expertise in modern advanced analytical tools and programming languages such as Python, Scala, Java and/or R.
+Efficient in SQL, Hive, SparkSQL, etc.
+Comfortable working in a Linux environment
+Experience with building end-to-end reusable pipelines from data acquisition to model output delivery
+Quick learner, adaptable, with the ability to work independently in a fast-paced environment
+Strong oral and written communication skills. Ability to conduct meetings and make professional presentations, and to explain complex concepts and technical material to non-technical users
+
+How You Will Lead
+Excellent leadership and communication skills to influence teams and to evangelize data science across the organization
+Perform hands-on data analysis and modeling with huge data sets
+Apply data mining, NLP, and machine learning (both supervised and unsupervised) to improve relevance and personalization algorithms
+Work side-by-side with product managers, software engineers, and designers in designing experiments and minimum viable products
+Discover data sources, get access to them, import them, clean them up, and make them “model-ready”. You need to be willing and able to do your own ETL
+Create and refine features from the underlying data. You’ll enjoy developing just enough subject matter expertise to have an intuition about what features might make your model perform better, and then you’ll lather, rinse and repeat
+Run regular A/B tests, gather data, perform statistical analysis, draw conclusions on the impact of your optimizations and communicate results to peers and leaders
+Explore new design or technology shifts in order to determine how they might connect with the customer benefits we wish to deliver
+Communicate key analytic findings within the business and to senior stakeholders
+Research, explore, and enable new quantitative techniques and technologies in data science

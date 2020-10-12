@@ -1,0 +1,114 @@
+PRIMARY DUTIES & RESPONSIBILITIES:
+Writes SQL queries to extract data for publications and research projects.
+Creates dashboards and reports using software such as Power B.I. and Qualtrics that require use of Tandem’s Enterprise Data Warehouse.
+Sets up Qualtrics surveys so that data can be automatically consumed in the Enterprise Data Warehouse with no manual post-processing.
+Serves as the primary liaison between Behavioral Sciences and Business Intelligence team.
+Teaches other members of the team and other Behavioral Sciences stakeholders technical skills for use of various software tools.
+Performs data and statistical analyses for publications and research projects.
+Assists in the writing of original research for peer reviewed publications (e.g. research journals and conference posters) as needed.
+Takes a supporting role in establishing the strategic direction of Tandem product offerings within diabetes and in pipeline therapeutic areas.
+Supports and/or initiates innovative use of data to support senior management and Tandem initiatives.
+Initiates research in measuring the effectiveness of behavioral sciences projects.
+Provides extra support as needed to the organization on all end to end research projects.
+Attends industry business, clinical and technical conferences.
+Ensures compliance with company policies, including Privacy/HIPAA, and other legal and regulatory requirements.
+Other responsibilities as assigned.
+
+
+Knowledge, Skills & Abilities
+Advanced SQL knowledge.
+Experience cleaning and analyzing real-world data.
+Advanced statistical analysis skills (both qualitative and quantitative) required.
+Experience using social statistics (i.e. ANOVA, MANOVA, Repeated Measures, Multiple Regression).
+Experience using data analysis software such as R, Python, SPSS, SAS, or another statistical software highly preferred.
+Strong T-SQL skills including proven ability to read, write and debug complex SQL queries.
+Experience with Microsoft Power BI preferred.
+Experience with OLTP data sources (MS Dynamics AX & CRM preferred).
+Ability to explain numeric data in a clear, concise, written and verbal format.
+Advanced technical skills in utilizing, integrating, analyzing large databases that originate from multiple database sources.
+Ability to work in a “high growth” environment.
+Able to assert own ideas and persuade others through effectively consolidating, evaluating, and presenting relevant information.
+Able to exhibit Tandem required values and behaviors to serve as an effective team member.
+Able to use RACI matrix and other role clarity tools as needed across projects.
+Adept at seeing change as an opportunity to improve business performance and campaigning for it when necessary.
+Strong written presentation skills.
+Highly organized, process-oriented, and thorough.
+Ability to effectively and efficiently manage/assist multiple projects and tasks and be flexible when presented with unexpected change.
+Knowledge and implementation of ethical behavior when handling, managing, and using statistical methods to analyze data.
+Ability to produce novel and innovative research ideas that can be used to help guide internal company decisions and/or be published to highlight benefit of Tandem customer experience.
+
+
+Minimum Certifications/educational Level
+Master’s degree in a data analytics field, experimental psychology, or a related field or equivalent combination of education and applicable job experience.
+
+
+Minimum Experience
+Experience using Qualtrics, SQL, Power BI, and Microsoft Office Suite is required.
+Experience working within medical device, medical diagnostics, biotechnology, or pharmaceuticals industry is preferred.
+Experience in healthcare is a strong plus.
+
+
+Job Scope
+Understands professional concepts of area of specialization and uses them to creatively resolve issues.
+Works on problems of varied scope where analysis of situations or data requires a review of a variety of factors.
+Normally receives general instructions on routine work, requires instructions only on new projects or assignments.
+Customarily and regularly exercises discretion and independent judgment.
+
+Responsibilities
+Compile data in designated format
+Analyze data and generate summary reports
+Exercise considerable judgment and take initiative required to resolve problems and make recommendations
+Document experimental data, present data, conclusions, and interpretations
+Other duties as assigned
+
+Requirements
+BS degree in Biology, Molecular Biology, Biochemistry, or related field
+Proficient in analytical and critical thinking
+Proficient in Microsoft and Google applications
+Candidate will adhere to established protocols and good laboratory practices while meeting expected daily and weekly deliverables
+Excellent written and verbal communication skills
+Self-motivated to lead projects while working effectively in a team
+
+Reporting Relationship: Reports to Director of Software Development
+
+Data Analyst will work with a large amount of data, find conclusions, translate data to an understandable document, data modeling and statistics. Develop and maintain analytics solutions including tools that extract and analyze the data subsequently leading to the achievement of departmental and overall business objectives.
+
+
+Essential Functions and Specific Responsibilities:
+
+
+The following are intended to be examples of the accountabilities for which the person in this position is responsible. This list is not intended to be complete or all-inclusive and does not preclude management from assigning other or related functions for which the individual has demonstrated competency through performance.
+
+
+Apply data modeling and statistics to gain actionable business insights
+Identify patterns and trends in data sets
+Define new data collection and analysis processes
+Maintain measurement analytics and quantitative analysis measures ROI
+Recommend technical strategies to contribute to the overall effectiveness and quality
+Conduct exploratory data analysis from complex data sources
+Ensure the intent of requirements is satisfied
+Develop statistical and mathematical models to distinguish relevant content and recognize patterns
+Generate reports of findings and represent to the business
+Track and adequately report defects using appropriate tools
+Integrate and load data to the backend database
+Provide quality assurance of exported data and/or reports, working with quality assurance if necessary
+Assist with all metrics level reporting
+
+Competencies:
+
+
+Remains aware of evolving needs and opportunities, showing flexibility in doing whatever is appropriate to support the Company’s success. Pursues educational opportunities to maintain advanced and up-to-date knowledge in the field. Performs all other related duties as required, assigned and understand that the items in this description are not all-inclusive.
+
+
+Required Education and Experience:
+
+
+Bachelor’s Degree in a technical field, Data Science, Statistics or Mathematics
+Experience with database technologies
+Experience with source control and dependency management software
+Experience with one or more programming languages including Python, JavaScript or R
+Knowledge of statistical analysis techniques
+Exposure to AWS Lambda and S3
+Experience with big data systems and BI products
+Aptitude for writing machine learning algorithms
+Ability to lead projects and manage process
