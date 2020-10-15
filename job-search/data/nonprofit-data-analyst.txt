@@ -1,0 +1,37 @@
+Are you passionate about using data to solve tricky problems? Do you thrive in an environment where you can use your curiosity, creativity, and code to help your colleagues do the same?
+
+GlobalGiving is looking for a data analyst to join our team and help the organization continue to leverage data to advance our mission, meet our business objectives, make better products, and achieve a larger impact on the world.
+
+In addition to providing analysis and insight into business metrics and performance, you will also support a culture of data literacy and decision making by surfacing key questions and insights for business owners at all levels of the organization. We’ll ask you to help us question our assumptions, use experiments to understand the effectiveness of our work, and to help us maximize our ability to deliver on our mission.
+
+In this generalist role, you'll have the opportunity to explore a wide range of projects and questions relating to donors, nonprofit organizations, companies, or our own internal operations and business models. You will also help us maintain our data pipelines, stay on top of new opportunities and tools, and perform other duties as required.
+
+We have a casual work atmosphere where everyone’s input and ideas are valued. We’re committed to work-life balance and offer everyone opportunities to learn, experiment, and grow. Since creative, enthusiastic employees are our most valued resource and the basis for our success, we take great care in how we attract, hire, and support our employees for a successful career. If you care about collaboration, curiosity, communication excellence, and continuous improvement, this position is right for you.
+
+Primary Responsibilities
+Tier 1 Data Support: Serve as the point person for ad hoc data questions from across the organization, including triaging incoming questions and analyses and escalating to senior data staff or backlog tasks as necessary. Help build data literacy by teaching others on the team core data skills whenever possible.
+Feed Data into Org Strategy: Help all departments to use data to understand company needs, uncover opportunities, and devise possible solutions. Proactively surface, highlight, and explore key business strategy questions with channel owners.
+Analysis and Presentation: Explore key questions via end-to-end analyses, including data cleansing, exploration, modeling, visualization, and presentation.
+Infrastructure Support: Help maintain our ETL infrastructure. Work closely with others on the tech team to make new data sources available and ensure that existing ones are delivering on the data access needs of the organization.
+External Research and Collaboration: Keep us in the loop on trends in the markets in which we operate (nonprofit, tech, CSR, philanthropy, etc.). Identify external datasets that can support our work and help integrate them with our processes and thinking. Work to spot and carry out opportunities for collaboration with like-minded organizations.
+Research and Experimentation: Analyze and interpret the results of experiments. Ensure we’re following best practices for instrumentation and experimentation and communicate those to business leaders.
+Always Learning: Keep up-to-date with technology and data trends and experiment with new tools and products to maintain competitive edge.
+Required Qualifications
+For our team to be a great fit for you, the following qualifications should resonate with you:
+
+A deep sense of curiosity, knack for asking good questions, and drive to figure them out
+1-3 years of relevant experience in a data-centric/analytical role or an equivalent combination of education and experience
+A solid background in modern data tools and techniques. We primarily use the Python data stack for our pipelines and analyses, MySQL for most data storage, and git for version control here, so specific experience in those tools is great. Otherwise, we’ll look for you to have demonstrated ability and excitement for learning these kinds of tools
+Familiarity with statistical analysis techniques and experiment design (bonus points if you can explain why green jelly beans cause acne)
+Ability to work across various distributed business functions to understand needs and provide appropriate data and insights and a focus on quality internal and external customer service in a global setting
+A penchant for sharing technical information with non-technical audiences
+A history of thriving in an entrepreneurial environment and a willingness to dig into changing projects and questions proactively
+Excellent organizational skills, creativity, and flexibility; comfort working in, building, and maintaining evolving systems
+A passionate belief in the mission of GlobalGiving, commitment to our core values, and a great sense of humor
+Preferred Qualifications
+The following qualifications are nice to have, but are not required:
+
+A bachelor’s degree in an analytical field (economics, poli sci, statistics, math, computer science, engineering, natural sciences etc.)
+Experience with AWS (particularly Lambda, S3, and DynamoDB) and Docker
+Familiarity with other tools we use often, including Metabase, Pandas, and Google Analytics
+Familiarity with the nonprofit/international aid/philanthropy space and the common questions and challenges facing the sector
